@@ -1,0 +1,10 @@
+{
+    "name": "luka/composer_public_github_package",
+    "authors": [
+        {
+            "name": "Luka Bartolic",
+            "email": "lukabartolic@farshore.com"
+        }
+    ],
+    "require": {}
+}
